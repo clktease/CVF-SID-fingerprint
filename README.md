@@ -33,4 +33,4 @@ If you want train a new model,set variable training in main.py line 58 to True
 python main.py
 
 
-!{image}(https://github.com/clktease/MLDN-Net-for-wetfingerprint-restoration/blob/main/image/compare.png)
+![image](https://github.com/clktease/MLDN-Net-for-wetfingerprint-restoration/blob/main/image/compare.png)
