@@ -33,4 +33,6 @@ If you want train a new model,set variable training in main.py line 58 to True
 python main.py
 
 
+Below figure is out MLDN-Net virtualization and comparison with SOTA denoising models.
+
 ![image](https://github.com/clktease/MLDN-Net-for-wetfingerprint-restoration/blob/main/image/compare.png)
