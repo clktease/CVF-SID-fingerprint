@@ -1,9 +1,12 @@
 # MLDN-Net-for-wetfingerprint-restoration
 use CVF-SID on fingerprint denoising
+
 ########## step 1 - environment setup #########
+
    	python 3.8.13
    	pytorch 1.12.1 py3.8_cuda11.3_cudnn8_0
 	other require pkgs are list in requirements.txt
+ 
 ########## step 2 - self-defined testing variables setup #########
 
 If you want to test the model with pretrained weight,set variable training in ./main.py line 58 to False
