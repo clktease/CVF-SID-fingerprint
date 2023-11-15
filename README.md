@@ -1,5 +1,5 @@
 # MLDN-Net-for-wetfingerprint-restoration
-use CVF-SID on fingerprint denoising
+use MLDN-Net on fingerprint denoising
 
 ########## step 1 - environment setup #########
 
